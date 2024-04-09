@@ -1,37 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# School Market
 
-## Getting Started
+## What is this?
 
-First, run the development server:
+> 학생들이 학교 생활 속에서 경제 활동을 직접 체험해 보면서 배울 수 있는 웹 어플리케이션
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## What can we do?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> 1. 기본적인 경제 공부
+> 2. 나만의 경제 활동
+> 3. 우리끼리 마켓 운영
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## What do we need?
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# school-market
+> 1. 경제 공부하기
+> 2. 나만의 소득 & 소비 생활 점검
+> 3. 직접 참여하는 상생 공유 경제
